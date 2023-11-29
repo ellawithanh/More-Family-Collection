@@ -1,0 +1,42 @@
+/* styles.css */
+
+/* Apply styles to elements */
+body {
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    text-align: left;
+}
+
+/* Header styles */
+.table {
+    margin: 0px auto;
+    background-color: #ffffff;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 600px;
+}
+
+
+span.name {
+    font-family: 'Playfair Display', serif;
+    color: #CAB9A7;
+    font-size: 25px;
+}
+
+span.position,
+span.contact {
+    font-weight: 700;
+    font-size: 13px;
+    color: #262633;
+
+}
+
+span.text {
+    font-weight: 500;
+    font-size: 13px;
+    color: #262633;
+    line-height: 20px;
+}
+
