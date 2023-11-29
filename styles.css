@@ -38,6 +38,7 @@ span.text {
     font-size: 13px;
     color: #262633;
     line-height: 20px;
+    text-decoration:  none;
 }
 
 a:active {
